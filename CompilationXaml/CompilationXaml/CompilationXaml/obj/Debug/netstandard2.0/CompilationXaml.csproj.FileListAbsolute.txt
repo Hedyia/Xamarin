@@ -1,0 +1,11 @@
+D:\Xamarin\CompilationXaml\CompilationXaml\CompilationXaml\bin\Debug\netstandard2.0\CompilationXaml.deps.json
+D:\Xamarin\CompilationXaml\CompilationXaml\CompilationXaml\bin\Debug\netstandard2.0\CompilationXaml.dll
+D:\Xamarin\CompilationXaml\CompilationXaml\CompilationXaml\bin\Debug\netstandard2.0\CompilationXaml.pdb
+D:\Xamarin\CompilationXaml\CompilationXaml\CompilationXaml\obj\Debug\netstandard2.0\CompilationXaml.csprojResolveAssemblyReference.cache
+D:\Xamarin\CompilationXaml\CompilationXaml\CompilationXaml\obj\Debug\netstandard2.0\CompilationXaml.csproj.CoreCompileInputs.cache
+D:\Xamarin\CompilationXaml\CompilationXaml\CompilationXaml\obj\Debug\netstandard2.0\CompilationXaml.App.xaml.g.cs
+D:\Xamarin\CompilationXaml\CompilationXaml\CompilationXaml\obj\Debug\netstandard2.0\CompilationXaml.MainPage.xaml.g.cs
+D:\Xamarin\CompilationXaml\CompilationXaml\CompilationXaml\obj\Debug\netstandard2.0\CompilationXaml.AssemblyInfoInputs.cache
+D:\Xamarin\CompilationXaml\CompilationXaml\CompilationXaml\obj\Debug\netstandard2.0\CompilationXaml.AssemblyInfo.cs
+D:\Xamarin\CompilationXaml\CompilationXaml\CompilationXaml\obj\Debug\netstandard2.0\CompilationXaml.dll
+D:\Xamarin\CompilationXaml\CompilationXaml\CompilationXaml\obj\Debug\netstandard2.0\CompilationXaml.pdb
